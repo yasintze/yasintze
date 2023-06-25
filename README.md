@@ -10,5 +10,4 @@ You can also find me at [https://yasinjunet.com](https://yasinjunet.com?utm_sour
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasintze&layout=compact&theme=dark)](https://github.com/yasintze)
 
-[![arishoham's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasintze&theme=react-dark)](https://github.com/yasintze)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasintze&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
